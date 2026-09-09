@@ -35,7 +35,7 @@ Me gusta convertir ideas y prototipos en productos reales, cuidando tanto la exp
 
 Además del desarrollo web y móvil, estudio **Ingeniería Electrónica y Telecomunicaciones** y participo en proyectos relacionados con **sistemas embebidos, IoT, procesamiento de señales y comunicaciones digitales**.
 
-✨ Lo que más disfruto es ese punto donde una interfaz deja de ser solamente “bonita” y empieza a sentirse clara, útil y natural para quien la usa.
+✨ Lo que más disfruto es ese punto donde una interfaz deja de ser solamente bonita y empieza a sentirse clara, útil y natural para quien la usa.
 
 <br clear="right"/>
 
@@ -91,21 +91,23 @@ Además del desarrollo web y móvil, estudio **Ingeniería Electrónica y Teleco
 ## 🚀 Proyectos destacados
 
 <div align="center">
+  <a href="https://github.com/luciaduque248/PortfolioSRD">
+    <img width="48%" src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/assets/projects/portfolio-srd.svg" alt="Portfolio SRD" />
+  </a>
+  <a href="https://github.com/luciaduque248/CountriesApp">
+    <img width="48%" src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/assets/projects/countries-app.svg" alt="Country Explorer" />
+  </a>
+</div>
 
-<a href="https://github.com/luciaduque248/PortfolioSRD">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=luciaduque248&repo=PortfolioSRD&bg_color=FFF7FA&title_color=FF6B9A&text_color=374151&icon_color=00C2A8&border_color=FFD1E0" alt="Portfolio SRD" />
-</a>
-<a href="https://github.com/luciaduque248/CountriesApp">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=luciaduque248&repo=CountriesApp&bg_color=F4FFFD&title_color=00A891&text_color=374151&icon_color=FF6B9A&border_color=B8F0E8" alt="Countries App" />
-</a>
+<br/>
 
-<a href="https://github.com/luciaduque248/PensumUnicauca">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=luciaduque248&repo=PensumUnicauca&bg_color=FFFBF0&title_color=D89B00&text_color=374151&icon_color=FF6B9A&border_color=FFE8A3" alt="Pensum Unicauca" />
-</a>
-<a href="https://github.com/luciaduque248/Modulation_16QAM">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=luciaduque248&repo=Modulation_16QAM&bg_color=FFF7FA&title_color=FF6B9A&text_color=374151&icon_color=00C2A8&border_color=FFD1E0" alt="16 QAM project" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/luciaduque248/PensumUnicauca">
+    <img width="48%" src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/assets/projects/pensum-unicauca.svg" alt="Mi Pensum Interactivo" />
+  </a>
+  <a href="https://github.com/luciaduque248/Modulation_16QAM">
+    <img width="48%" src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/assets/projects/modulation-16qam.svg" alt="16-QAM Gray AWGN" />
+  </a>
 </div>
 
 ### 🌍 Country Explorer
@@ -163,11 +165,11 @@ Mi portafolio profesional, donde reúno proyectos de desarrollo, UX/UI y product
 ## 💬 Lo que dicen de mi trabajo
 
 <div align="center">
-
-  <img src="quotes/quote1.svg" width="300" />
-  <img src="quotes/quote2.svg" width="300" />
-  <img src="quotes/quote3.svg" width="300" />
-
+  <img src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/quotes/quote1.svg" width="96%" alt="Testimonio de Fulvio Yesid Vivas" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/quotes/quote2.svg" width="96%" alt="Testimonio de Oscar Caicedo" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/main/quotes/quote3.svg" width="96%" alt="Testimonio de Carlos Tobar" />
 </div>
 
 ---
@@ -188,7 +190,11 @@ Mi portafolio profesional, donde reúno proyectos de desarrollo, UX/UI y product
 ## 🐍 Mis contribuciones
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luciaduque248/luciaduque248/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luciaduque248/luciaduque248/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/luciaduque248/luciaduque248/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
 </div>
 
 ---
