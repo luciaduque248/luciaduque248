@@ -1,16 +1,19 @@
-<svg fill="none" viewBox="0 0 320 320" width="320" height="320" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 190" role="img" aria-labelledby="title desc">
+  <title id="title">Testimonio de Fulvio Yesid Vivas</title>
+  <desc id="desc">Comentario sobre el compromiso y liderazgo de Sara Duque</desc>
   <style>
-    .title { font: bold 18px sans-serif; fill: #ff6ec7; }
-    .text { font: italic 14px sans-serif; fill: #ffffff; }
-    .author { font: 12px sans-serif; fill: #cccccc; }
-    .bg { fill: #141321; }
+    :root{--bg:#FFF7FA;--text:#374151;--muted:#6B7280;--border:#FFD1E0;--accent:#FF6B9A;--quote:#FFD6E3}
+    @media (prefers-color-scheme:dark){:root{--bg:#161B22;--text:#F0F6FC;--muted:#8B949E;--border:#30363D;--accent:#FF8AAF;--quote:#4A2231}}
+    .quote{font:700 62px Georgia,serif;fill:var(--quote)}
+    .body{font:italic 500 20px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:var(--text)}
+    .name{font:700 16px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:var(--accent)}
+    .role{font:500 14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:var(--muted)}
   </style>
-  <rect class="bg" width="320" height="320" rx="15"/>
-  <text x="20" y="40" class="title">💬 Comentario</text>
-  <text x="20" y="90" class="text">"Sara es una estudiante</text>
-  <text x="20" y="115" class="text">excepcional, con gran</text>
-  <text x="20" y="140" class="text">compromiso y liderazgo</text>
-  <text x="20" y="165" class="text">en proyectos."</text>
-  <text x="20" y="210" class="author">— Fulvio Yesid Vivas</text>
-  <text x="20" y="230" class="author">(Universidad del Cauca)</text>
+  <rect x="1" y="1" width="758" height="188" rx="22" fill="var(--bg)" stroke="var(--border)" stroke-width="2"/>
+  <rect x="1" y="1" width="8" height="188" rx="4" fill="var(--accent)"/>
+  <text x="34" y="62" class="quote">“</text>
+  <text x="82" y="63" class="body">Sara es una estudiante excepcional, con gran compromiso y liderazgo</text>
+  <text x="82" y="93" class="body">en proyectos.</text>
+  <text x="82" y="137" class="name">Fulvio Yesid Vivas</text>
+  <text x="82" y="161" class="role">Universidad del Cauca</text>
 </svg>
